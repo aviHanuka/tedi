@@ -1,0 +1,213 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: cj-clean\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-27 20:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:75 functions.php:84
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: parts/component-be-part.php:14
+msgid "Be part of Us"
+msgstr ""
+
+#: functions.php:47
+msgid "Bottom Menu"
+msgstr ""
+
+#: page-login.php:124
+msgid "Check mail"
+msgstr ""
+
+#: functions.php:49
+msgid "Client Menu"
+msgstr ""
+
+#: footer.php:33
+msgid "CODJA"
+msgstr ""
+
+#. Name of the theme
+msgid "Codja grishin"
+msgstr ""
+
+#. Description of the theme
+msgid "Codja theme created for Grishin successful partnership"
+msgstr ""
+
+#: parts/component-feedback.php:14
+msgid "Contact us"
+msgstr ""
+
+#: parts/content-page.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: parts/component-be-part.php:15
+msgid "Create a account. And try 30 days free trial period"
+msgstr ""
+
+#: parts/component-be-part.php:20
+msgid "Create an account"
+msgstr ""
+
+#: footer.php:33
+msgid "Design agency"
+msgstr ""
+
+#: page-login.php:63 page-login.php:103
+msgid "Email"
+msgstr ""
+
+#: page-login.php:55
+msgid "First name"
+msgstr ""
+
+#: page-login.php:42 page-login.php:90
+msgid "Forgot your password"
+msgstr ""
+
+#: header.php:79 header-login.php:81
+msgid "Grishin"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://codja.net/"
+msgstr ""
+
+#: parts/content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: page-login.php:59
+msgid "Last name"
+msgstr ""
+
+#: functions.php:73
+msgid "Left sidebar"
+msgstr ""
+
+#: page-login.php:25
+msgid "Login"
+msgstr ""
+
+#: functions.php:48
+msgid "Login Menu"
+msgstr ""
+
+#: page-login.php:23 page-login.php:94 page-login.php:112 page-login.php:128
+msgid "Login title"
+msgstr ""
+
+#: header.php:86 header-login.php:88 header-client.php:139
+msgid "Navigation menu"
+msgstr ""
+
+#: page-login.php:46 page-login.php:116 page-login.php:132
+msgid "New user"
+msgstr ""
+
+#: parts/component-pagination.php:15
+msgid "Next page"
+msgstr ""
+
+#: parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/component-pagination.php:16
+msgid "Page"
+msgstr ""
+
+#: page-login.php:77
+msgid "Pass repeat"
+msgstr ""
+
+#: page-login.php:29 page-login.php:71
+msgid "Password"
+msgstr ""
+
+#: page-login.php:67
+msgid "Phone"
+msgstr ""
+
+#: parts/component-pagination.php:14
+msgid "Previous page"
+msgstr ""
+
+#: parts/content-single.php:21 parts/component-categorization.php:30
+msgid "Read more"
+msgstr ""
+
+#: page-login.php:85
+msgid "Register"
+msgstr ""
+
+#: page-login.php:54
+msgid "Register title"
+msgstr ""
+
+#: page-login.php:108
+msgid "Restore"
+msgstr ""
+
+#: page-login.php:102
+msgid "Restore title"
+msgstr ""
+
+#: parts/content-front-page.php:23
+msgid "scroll down"
+msgstr ""
+
+#: header-client.php:159
+msgid "Search"
+msgstr ""
+
+#. Author of the theme
+msgid "Serhii Usik"
+msgstr ""
+
+#: functions.php:82
+msgid "Sidebar in footer"
+msgstr ""
+
+#: page-login.php:37
+msgid "Sign in"
+msgstr ""
+
+#: functions.php:46
+msgid "Social Menu"
+msgstr ""
+
+#: header.php:80 header-login.php:82
+msgid "Successful Partnership"
+msgstr ""
+
+#: functions.php:45
+msgid "Top Menu"
+msgstr ""
+
+#: parts/component-be-part.php:19
+msgid "Watch the video"
+msgstr ""
+
+msgid "oops!"
+msgstr ""
+
+msgid "Error 404 : Page Not Found"
+msgstr ""
+
+msgid "Home"
+msgstr ""
